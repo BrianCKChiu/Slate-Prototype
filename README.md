@@ -4,6 +4,7 @@
 An app for Sheridan students who want to get up-to-date news about their courses, grades, and Sheridan college through their phone. Students can quickly communicate with their classmates and professors through direct messaging or the class group chat. Students can hand assignments directly through their phones, rather than transferring them to their computers to submit them.
 ## Versions
 [Version 1](https://www.figma.com/file/muxslSfgD7ih5qUPbWRaJA/Assignment-1-chiubri?node-id=0%3A1)
+
 [Version 2](https://www.figma.com/file/jjA1ym7eYVgxOCKXeRC1BK/Assignment-2-chiubri?node-id=0%3A1)
 ## Top 5 Features
 Functional features that are desired on similar apps:
