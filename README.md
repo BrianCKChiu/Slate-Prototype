@@ -6,6 +6,8 @@ An app for Sheridan students who want to get up-to-date news about their courses
 [Version 1](https://www.figma.com/file/muxslSfgD7ih5qUPbWRaJA/Assignment-1-chiubri?node-id=0%3A1)
 
 [Version 2](https://www.figma.com/file/jjA1ym7eYVgxOCKXeRC1BK/Assignment-2-chiubri?node-id=0%3A1)
+
+[Version 3](https://www.figma.com/file/OLQ93dPthaoEy6fV3Ny83M/Assignment-3?node-id=2%3A1191)
 ## Top 5 Features
 Functional features that are desired on similar apps:
 - Quick communication to peers and professors
